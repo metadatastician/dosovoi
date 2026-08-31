@@ -1,0 +1,24 @@
+# SPDX-License-Identifier: MPL-2.0
+[metadata]
+version = "0.1.0"
+last-updated = "2026-08-18"
+
+[project]
+name = "dosovoi"
+purpose = "Deterministic, non-agentic terminal mascots for human-factors experiments"
+
+[evidence]
+status = "prototype"
+claims = [
+  "Mascot rendering and transitions are deterministic and locally testable.",
+  "No model inference, network access, telemetry, or autonomous tool use is implemented.",
+]
+
+[policy]
+read-first = ["README.md", "docs/non-agency.md", "docs/evidence-boundary.md"]
+rules = [
+  "Mascot state is not evidence of safety.",
+  "Risk signals and mascot presentation remain separate.",
+  "Do not add autonomous or manipulative behaviour.",
+]
+

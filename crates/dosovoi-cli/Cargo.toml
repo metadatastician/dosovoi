@@ -1,0 +1,20 @@
+# SPDX-License-Identifier: MPL-2.0
+
+[package]
+name = "dosovoi-cli"
+description = "Accessible one-shot terminal interface for DOSovoi"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "dosovoi"
+path = "src/main.rs"
+
+[dependencies]
+dosovoi-core = { path = "../dosovoi-core" }
+
+[lints]
+workspace = true
+

@@ -1,0 +1,10 @@
+WARNING [CAUTION]: Review generated command before execution
+Signal source: explicit user input
+
+(\_/)
+( . .)
+(___)
+Mascot status: Bunny-like mascot in a low-stimulation posture.
+Mode: care
+Care: on
+Motion: off

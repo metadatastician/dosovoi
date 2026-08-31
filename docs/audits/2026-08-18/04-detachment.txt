@@ -1,0 +1,9 @@
+Risk signal: none supplied; no safety assessment performed.
+
+ .--.
+( -- )
+ `--'
+Mascot status: Puff mascot in a resting posture.
+Mode: detachment
+Care: off
+Motion: off

@@ -1,0 +1,7 @@
+WARNING [HIGH RISK]: Separate system reported a high-risk condition
+Signal source: explicit user input
+
+Mascot status: Attentive mascot in a warning-facing posture.
+Mode: vigilance
+Care: off
+Motion: off
